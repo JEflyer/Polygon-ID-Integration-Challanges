@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "2.0.0",
+    "hardhat": "2.11.2"
+  },
+  "dependencies": {
+    "@iden3/contracts": "^1.1.0",
+    "solidity-bytes-utils": "^0.8.0",
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
